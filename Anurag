@@ -11,7 +11,7 @@ void main()
   {
     scanf("%d",&a[i]);
   }
-  printf("\nOutput Element:");
+  printf("\nReverse Element:");
   for(i=rang-1;i>=0;i--)
   {
     printf(" %d",a[i]);
